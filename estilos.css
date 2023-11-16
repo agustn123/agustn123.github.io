@@ -1,0 +1,54 @@
+body{
+    font-family: 'Markazi Text'
+    ;background-color:  rgb(233, 156, 220);
+margin: 0%;
+
+
+
+background-image: url("https://carontestudio.com/img/caronte-web-estudio-logo.png");
+background-size: cover;
+background-repeat:no-repeat;
+background-position: center center;
+
+}
+
+
+
+
+.caja{
+ 
+
+    background-color: rgb(0, 81, 255);
+    width: 100%;
+    height: 100px;
+}
+
+div{
+    background-color: rgb(78, 214, 255);
+    width: 1300px;
+    height: 100px;
+}
+    img{
+        width: 200px;
+    height: 130px; 
+    position:absolute; 
+   top: 500%;
+
+    }
+
+
+.padre{width: 500px;
+height: 800px;
+position:relative;
+background-color: rgb(0, 255, 234);
+}
+.hijo{width:100px;
+height:200px;
+background-color: azure;
+position:absolute;}
+
+a:hover{background-color:rgb(158, 201, 42);
+}
+
+
+a.Flex-direction : row; 
